@@ -1,0 +1,54 @@
+#######################################
+# Syntax Coloring Map For AsyncOneWire
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AsyncOneWire	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+doReset	KEYWORD2
+doWrite	KEYWORD2
+doWriteAndPower	KEYWORD2
+doRead	KEYWORD2
+doSearch	KEYWORD2
+doPower	KEYWORD2
+doUnpower	KEYWORD2
+doWait	KEYWORD2
+doCallback	KEYWORD2
+onCommandFinished	KEYWORD2
+begin	KEYWORD2
+beginTransaction	KEYWORD2
+reset	KEYWORD2
+writeBit	KEYWORD2
+writeBitAndPower	KEYWORD2
+readBit	KEYWORD2
+write	KEYWORD2
+write	KEYWORD2
+read	KEYWORD2
+searchFirst	KEYWORD2
+searchNext	KEYWORD2
+power	KEYWORD2
+unpower	KEYWORD2
+wait	KEYWORD2
+callback	KEYWORD2
+commit	KEYWORD2
+inProgress	KEYWORD2
+getData	KEYWORD2
+getLastSearchResult	KEYWORD2
+handle	KEYWORD2
+crc	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
